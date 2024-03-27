@@ -1,10 +1,11 @@
 {
     "name": "Example Plugin",
     "developer": "Robin Painter",
-    "version": "1.0.0",
-    "bitVersion": "5.x.x",
+    "version": "2.0.0",
+    "bitVersion": "2024.1",
     "support": "https://github.com/Lockyz-Dev/bit-core/issues",
     "updateURL": "https://cdn.lockyzdev.net/bit/plugins/example/update.json",
-    "events": "true",
-    "commands": "true"
+    "events": true,
+    "commands": true,
+    "listInPluginsCommand": true
 }
