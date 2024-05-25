@@ -1,12 +1,13 @@
 {
     "name": "Example Plugin",
+    "id": "example-plugin",
     "developer": "Lockyz Media",
-    "version": "2.0.0",
+    "version": "2024.1.0",
     "support": "https://github.com/Lockyz-Dev/bit-core/issues",
-    "updateURL": "https://cdn.lockyzdev.net/bit/plugins/example/update.json",
+    "update_url": "https://cdn.lockyzdev.net/bit/plugins/example/update.json",
     "events": true,
     "commands": true,
-    "listInPluginsCommand": true,
+    "list_in_plugins_command": true,
     "requirements": {
         "bit-core": {
             "version": "2024.1.0",
